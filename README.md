@@ -1,16 +1,52 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**matheuscastilhoalves/matheuscastilhoalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, eu sou o Matheus Castilho! 👋
 
-Here are some ideas to get you started:
+### 💻 Estudante de ADS |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Apaixonado por tecnologia, programação e resolução de problemas.
+
+</div>
+
+---
+
+### 👨‍💻 Sobre mim
+
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na Fatec Sorocaba
+- 🚀 Interesse em **desenvolvimento back-end**
+- 📚 Aprimorando meus conhecimentos em **Java e Programação Orientada a Objetos**
+- 🧠 Sempre buscando aprender novas tecnologias e desenvolver projetos
+
+### 🛠️ Tecnologias e ferramentas
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,c,html,css,git,github,vscode&theme=dark" alt="Tecnologias: Java, C, HTML, CSS, Git, GitHub e VS Code" />
+
+</div>
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=matheuscastilhoalves&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscastilhoalves&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas" />
+
+</div>
+
+### 📫 Contato
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matheuscastilhoalves)
+
+</div>
+
+---
+
+<div align="center">
+
+*Em constante evolução, uma linha de código por vez.*
+
+</div>
