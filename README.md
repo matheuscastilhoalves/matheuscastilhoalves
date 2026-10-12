@@ -24,14 +24,6 @@ Apaixonado por tecnologia, programação e resolução de problemas.
 
 </div>
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=matheuscastilhoalves&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscastilhoalves&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas" />
-
 </div>
 
 ### 📫 Contato
