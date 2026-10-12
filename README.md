@@ -2,7 +2,7 @@
 
 # Olá, eu sou o Matheus Castilho! 👋
 
-### 💻 Estudante de ADS |
+### 💻 Estudante de ADS
 
 Apaixonado por tecnologia, programação e resolução de problemas.
 
@@ -13,15 +13,14 @@ Apaixonado por tecnologia, programação e resolução de problemas.
 ### 👨‍💻 Sobre mim
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na Fatec Sorocaba
-- 🚀 Interesse em **desenvolvimento back-end**
-- 📚 Aprimorando meus conhecimentos em **Java e Programação Orientada a Objetos**
+- 🚀 Interesse em **desenvolvimento Full Stack**
 - 🧠 Sempre buscando aprender novas tecnologias e desenvolver projetos
 
 ### 🛠️ Tecnologias e ferramentas
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,c,html,css,git,github,vscode&theme=dark" alt="Tecnologias: Java, C, HTML, CSS, Git, GitHub e VS Code" />
+<img src="https://skillicons.dev/icons?i=java,c,html,css&theme=dark" alt="Tecnologias: Java, C, HTML, CSS" />
 
 </div>
 
